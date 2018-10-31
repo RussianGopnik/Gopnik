@@ -1,0 +1,8 @@
+<body background="Gopnik_background.jpg">
+<div>
+<h1><font size="15" color="White" face="Arial">The Gopnik</h1>
+<a href="Gopnik_2">
+<img src="Play_Button.png" alt="StartGame" style="height: 60px width=200px; position: absolute; top: 570px; left:622px;"/>
+</a>
+</div>
+</body>
